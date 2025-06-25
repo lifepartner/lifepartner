@@ -170,10 +170,6 @@
       <br>Python
     </td>
     <td align="center" width="150">
-      <img src="https://icon.icepanel.io/Technology/svg/Django-REST.svg" alt="Django REST" width="55" height="55" />
-      <br>Django REST
-    </td>
-    <td align="center" width="150">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="55" height="55" />
       <br>Django
     </td>
@@ -184,6 +180,10 @@
     <td align="center" width="150">
       <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI" width="55" height="55" />
       <br>FastAPI
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/Django-REST.svg" alt="Django REST" width="55" height="55" />
+      <br>Django REST
     </td>
     <td align="center" width="150">
       <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
