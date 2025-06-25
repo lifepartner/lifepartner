@@ -164,6 +164,48 @@
       <br>Nest.js
     </td>
   </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
+      <br>Python
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/Django-REST.svg" alt="Django REST" width="55" height="55" />
+      <br>Django REST
+    </td>
+    <td align="center" width="150">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="55" height="55" />
+      <br>Django
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/Flask.svg" alt="Flask" width="55" height="55" />
+      <br>Flask
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI" width="55" height="55" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
+      <br>Ruby
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=rails" width="45" height="45" alt="rails" />
+      <br>rails
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
+      <br>Go
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
+      <br>Rust
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/Three.js.svg" width="45" height="45" alt="Three.js" />
+      <br>Three.js
+    </td>
+  </tr>
 </table>
 
 ## 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭
