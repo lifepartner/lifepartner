@@ -34,6 +34,53 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 
+## ⚡ Technologies
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://icon.icepanel.io/Technology/svg/Apple.svg" width="45" height="45" alt="App Store" />
+      <br>App Store
+    </td>
+    <td align="center" width="90">
+      <img src="https://icon.icepanel.io/Technology/svg/Google.svg" width="45" height="45" alt="Google Play" />
+      <br>Google Play
+    </td>
+    <td align="center" width="90">
+      <img src="https://icon.icepanel.io/Technology/svg/React.svg" width="45" height="45" alt="React Native" />
+      <br>React Native
+    </td>
+    <td align="center" width="90">
+      <img src="https://icon.icepanel.io/Technology/svg/Dart.svg" width="45" height="45" alt="Dart" />
+      <br>Dart
+    </td>
+    <td align="center" width="90">
+      <img src="https://icon.icepanel.io/Technology/svg/Flutter.svg" width="45" height="45" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="90">
+      <img src="https://icon.icepanel.io/Technology/svg/Swift.svg" width="45" height="45" alt="Swift" />
+      <br>Swift
+    </td>
+    <td align="center" width="90">
+      <img src="https://icon.icepanel.io/Technology/svg/Objective-C.svg" width="45" height="45" alt="Objective-C" />
+      <br>Objective-C
+    </td>
+    <td align="center" width="90">
+      <img src="https://icon.icepanel.io/Technology/svg/Kotlin.svg" width="45" height="45" alt="Kotlin" />
+      <br>Kotlin
+    </td>
+    <td align="center" width="90">
+      <img src="https://icon.icepanel.io/Technology/svg/Java.svg" width="45" height="45" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://icon.icepanel.io/Technology/svg/Ionic.svg" width="45" height="45" alt="Ionic" />
+      <br>Ionic
+    </td>
+  </tr>
+</table>
+
 ## 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭
 <table>
   <tr>
