@@ -121,6 +121,49 @@
       <br>Nuxt.js
     </td>
   </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/PHP.svg" width="45" height="45" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/Laravel.svg" width="45" height="45" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/CodeIgniter.svg" width="45" height="45" alt="CodeIgniter" />
+      <br>CodeIgniter
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/Symfony.svg" width="45" height="45" alt="Symfony" />
+      <br>Symfony
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/Zend-Framework.svg" width="45" height="45"
+        alt="Zend-Framework" />
+      <br>Zend Framework
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/CakePHP.svg" width="45" height="45" alt="CakePHP" />
+      <br>CakePHP
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/Angular.svg" width="45" height="45" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" width="45" height="45" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/Express.svg" width="45" height="45" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/Nest.svg" width="45" height="45" alt="Nest" />
+      <br>Nest
+    </td>
+  </tr>
 </table>
 
 ## 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭
