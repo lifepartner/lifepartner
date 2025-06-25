@@ -290,6 +290,48 @@
       <br>Azure
     </td>
   </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/NGINX.svg" width="45" height="45" alt="NGINX" />
+      <br>NGINX
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/Ubuntu.svg" width="45" height="45" alt="Ubuntu" />
+      <br>Ubuntu
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/Linux.svg" width="45" height="45" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/Cloudflare.svg" width="45" height="45" alt="Cloudflare" />
+      <br>Cloudflare
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" width="45" height="45" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/GraphQL.svg" width="45" height="45" alt="GraphQL" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/Vercel.svg" width="45" height="45" alt="Vercel" />
+      <br>Vercel
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" width="45" height="45" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/TensorFlow.svg" width="45" height="45" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/WordPress.svg" width="45" height="45" alt="WordPress" />
+      <br>WordPress
+    </td>
+  </tr>
 </table>
 
 ## 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭
