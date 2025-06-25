@@ -160,8 +160,8 @@
       <br>Express
     </td>
     <td align="center" width="150">
-      <img src="https://icon.icepanel.io/Technology/svg/Nest.svg" width="45" height="45" alt="Nest" />
-      <br>Nest
+      <img src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" width="45" height="45" alt="Nest.js" />
+      <br>Nest.js
     </td>
   </tr>
 </table>
