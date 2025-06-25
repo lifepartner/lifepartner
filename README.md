@@ -206,6 +206,90 @@
       <br>Three.js
     </td>
   </tr>
+   <tr>
+    <td align="center" width="150">
+      <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="45">
+      <br>NFT
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="45">
+      <br>DeFi
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/Solidity.svg" width="45" height="45" alt="Solidity" />
+      <br>Solidity
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/Clarity.svg" width="45" height="45" alt="Clarity" />
+      <br>Clarity
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/Vyper.svg" width="45" height="45" alt="Vyper" />
+      <br>Vyper
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=bots" width="45" height="45" alt="bot" />
+      <br>Bot
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" width="45" height="45" alt="Tailwind CSS" />
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/Material-UI.svg" width="45" height="45" alt="Material UI" />
+      <br>Material UI
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/Ant-Design.svg" width="45" height="45" alt="Ant Design" />
+      <br>Ant Design
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=styledcomponents" width="45" height="45" alt="styledcomponents" />
+      <br>Styled
+    </td>
+  </tr>
+    <tr>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/AWS.svg" width="45" height="45" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=dynamodb" width="45" height="45" alt="DynamoDB" />
+      <br>DynamoDB
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/Firebase.svg" width="45" height="45" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="Supabase" />
+      <br>Supabase
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" width="45" height="45" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" alt="MySQL" width="55" height="55" />
+      <br>MySQL
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" width="45" height="45" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/SQLite.svg" width="45" height="45" alt="SQLite" />
+      <br>SQLite
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/Oracle.svg" width="45" height="45" alt="Oracle" />
+      <br>Oracle
+    </td>
+    <td align="center" width="150">
+      <img src="https://icon.icepanel.io/Technology/svg/Azure.svg" width="45" height="45" alt="Azure" />
+      <br>Azure
+    </td>
+  </tr>
 </table>
 
 ## 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭
